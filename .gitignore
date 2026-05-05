@@ -1,0 +1,5 @@
+# Gazebo/Ignition logs
+log/
+# OS files
+.DS_Store
+Thumbs.db
